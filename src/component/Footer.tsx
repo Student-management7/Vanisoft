@@ -22,7 +22,7 @@ function Footer() {
                 <div>
                   <h3 className="text-lg font-semibold mb-4">Company</h3>
                   <ul className="space-y-2">
-                    <li><a href="#" className="text-gray-400 hover:text-white">About</a></li>
+                    <li><a href="#" className="text-gray-400 hover:text-white ">About</a></li>
                     <li><a href="#" className="text-gray-400 hover:text-white">Services</a></li>
                     <li><a href="#" className="text-gray-400 hover:text-white">Team</a></li>
                     <li><a href="#" className="text-gray-400 hover:text-white">Careers</a></li>
@@ -40,10 +40,10 @@ function Footer() {
                 <div>
                   <h3 className="text-lg font-semibold mb-4">Contact</h3>
                   <ul className="space-y-2 text-gray-400">
-                    <li>info@tresst.com</li>
-                    <li>+1 (555) 123-4567</li>
-                    <li>123 Marketing St, Suite 100</li>
-                    <li>New York, NY 10001</li>
+                    <li>smssystem786@gmail.com</li>
+                    <li>+91 9753009338</li>
+                    <li>Nayi sadak Laskar Gwalior</li>
+                    <li>India, MP</li>
                   </ul>
                 </div>
               </div>
