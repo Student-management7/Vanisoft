@@ -1,4 +1,4 @@
-import { useState,  FormEvent } from "react";
+import { useState } from "react";
 import Footer from "../../component/Footer";
 import Blog from "../../component/Blog";
 import Header from "../../component/Header";
@@ -6,7 +6,7 @@ import Team from "../../component/Team";
 import Service from "../../component/Service";
 import Contact from "../../component/Contact";
 import Pjt from "../../component/Pjt";
-// import img from "./emailImg.jpeg";
+
 import img from "../../assets/faq.jpeg"
 import img2 from "../../assets/stastic.jpg"
 
@@ -71,12 +71,8 @@ export default function Home() {
       {/* Team Section */}
       <Team/>
 
-      {/* Projects Section */}
      <Pjt/>
 
-      {/* Testimonials Section */}
-   
-      {/* FAQ Section */}
       <section className="py-20">
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center">

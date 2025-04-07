@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import logo from "../assets/ews-full.png";
 import school from "../assets/school.jpg"; // Import the background image
 import vdo from "../assets/banner.mp4";

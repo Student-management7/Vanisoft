@@ -1,4 +1,4 @@
-import React from 'react'
+
 import logo from "../assets/ews-full.png"
 function Footer() {
   return (
@@ -17,7 +17,7 @@ function Footer() {
                 We help businesses grow through strategic marketing and innovative solutions.
               </p>
             </div>
-            <div className="w-full md:w-7/12">
+            <div className= "w-full md:w-7/12">
               <div className="grid grid-cols-2 md:grid-cols-3 gap-8">
                 <div>
                   <h3 className="text-lg font-semibold mb-4">Company</h3>

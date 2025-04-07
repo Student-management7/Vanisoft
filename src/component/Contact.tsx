@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { useState,  FormEvent } from "react";
 import img from "../assets/contact.png"
 function Contact() {
